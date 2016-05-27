@@ -2,6 +2,11 @@
 Changelog for package astra_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-05-26)
+------------------
+* add git as a dependency
+* Contributors: Tully Foote
+
 0.1.1 (2016-05-26)
 ------------------
 * removing dependency which was internalilzed
